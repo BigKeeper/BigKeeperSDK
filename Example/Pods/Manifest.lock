@@ -1,0 +1,16 @@
+PODS:
+  - BigKeeperSDK (0.1.0)
+
+DEPENDENCIES:
+  - BigKeeperSDK (from `../`)
+
+EXTERNAL SOURCES:
+  BigKeeperSDK:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BigKeeperSDK: 551add759e340b066dd6efca54db232932220d53
+
+PODFILE CHECKSUM: eb50dbe21ccae84794cf1270cfb577ff64a18485
+
+COCOAPODS: 1.3.1

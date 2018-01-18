@@ -1,0 +1,6 @@
+framework module Pods_BigKeeperSDK_Tests {
+  umbrella header "Pods-BigKeeperSDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

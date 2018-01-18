@@ -1,0 +1,22 @@
+{
+  "name": "BigKeeperSDK",
+  "version": "0.1.0",
+  "summary": "A short description of BigKeeperSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sfmdeveloper@icloud.com/BigKeeperSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sfmdeveloper@icloud.com": "fengming.shi@ele.me"
+  },
+  "source": {
+    "git": "https://github.com/sfmdeveloper@icloud.com/BigKeeperSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BigKeeperSDK/Classes/**/*"
+}

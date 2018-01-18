@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BigKeeperSDK_Example' do
+  pod 'BigKeeperSDK', :path => '../'
+
+  target 'BigKeeperSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
